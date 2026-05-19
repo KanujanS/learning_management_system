@@ -14,7 +14,7 @@ export default function LoginPage() {
     <div>
       <Card>
         <CardHeader>
-          <CardTitle className="text-lg font-bold">Welcome back!</CardTitle>
+          <CardTitle className="text-lg font-bold">Welcome back</CardTitle>
           <CardDescription>
             Login with your GitHub Email Account
           </CardDescription>
